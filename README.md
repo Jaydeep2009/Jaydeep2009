@@ -103,8 +103,8 @@ Android app generating personalized day-wise task roadmaps via LLM integration, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaydeep2009&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep2009&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaydeep2009&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep2009&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -112,12 +112,23 @@ Android app generating personalized day-wise task roadmaps via LLM integration, 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaydeep2009&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaydeep2009&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaydeep2009&theme=tokyo-night&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaydeep2009&theme=tokyo-night&hide_border=true&custom_title=Contribution+Graph" width="90%"/>
 </p>
+
+<!--
+Note: github-readme-stats / trophy / activity-graph run on a shared free Vercel
+instance that occasionally rate-limits and shows a broken image. If any of the
+above don't render:
+  1. Hard-refresh the GitHub page (GitHub caches images via its camo proxy).
+  2. Wait a few minutes and reload — it's usually temporary.
+  3. For a permanent fix, deploy your own copy of anuraghazra/github-readme-stats
+     to Vercel (one-click deploy button in that repo's README) and swap the
+     domain in the URLs above for your own deployment.
+-->
 
 ---
 

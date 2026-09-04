@@ -1,18 +1,128 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Jaydeep%20Gaikwad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Android%20%7C%20Distributed%20Systems&descAlignY=55&descSize=18" />
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaydeeep_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydeep-gaikwad-070332292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaydeepgaikwad9890@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+SPPU+Pune;Java+Backend+%2F+Spring+Boot+%2F+REST+APIs;Android+%2F+Kotlin+%2F+Jetpack+Compose;560%2B+DSA+problems+solved;Seeking+SDE+Intern+roles" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jaydeep2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jaydeep2009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jaydeep2009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://linkedin.com/in/jaydeep-gaikwad-070332292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jaydeepgaikwad9890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/jaydeeep_20"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Jaydeep2009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jaydeep2009&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧭 About Me
+
+- 🎓 Final-year **B.E. Computer Engineering** student at Savitribai Phule Pune University (CGPA 8.65/10.0), graduating June 2027
+- 💼 Currently a **Java Developer Intern @ Genzopia Solutions**, shipping backend + Android features in a live production codebase
+- 🧩 Focused on **backend & distributed systems** — Spring Boot, REST APIs, JWT/OAuth2, rate limiting, chunked storage pipelines
+- 📱 Also build production **Android apps** with Kotlin, Jetpack Compose, and MVVM
+- 🧠 Solved **560+ DSA problems** across LeetCode, GeeksforGeeks & CodeChef (150+ active days — strongest in DP, trees, graphs)
+- 🎯 Actively looking for **SDE Intern** roles in backend or distributed systems
+- ⚡ Fun fact: I like designing systems that route, chunk, or rate-limit things
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,py,js,spring,nodejs,express,postgres,mysql,mongodb,firebase,git,github,postman,linux,idea,vscode&theme=dark" />
+</p>
+
+<details>
+<summary><b>📚 Full breakdown</b></summary>
+<br/>
+
+**Languages:** Java · Python · C++ · JavaScript · Kotlin · SQL
+
+**Backend:** Spring Boot · Spring Data JPA · Hibernate · Node.js · Express.js · REST APIs · Microservices
+
+**Android:** Kotlin · Jetpack Compose · MVVM · Firebase Authentication
+
+**Databases:** PostgreSQL · MySQL · MongoDB · Firebase Firestore
+
+**DSA:** Arrays, Strings, Linked Lists, Stacks/Queues, Trees, BSTs, Hashing, Recursion, DP
+
+**Core CS:** OOP · Distributed Systems · DBMS · OS · Computer Networks · System Design · Agile/Scrum
+
+**Tools:** Git · GitHub · Postman · JWT · OAuth2 · IntelliJ IDEA · VS Code
+
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 [GateKeeper](https://github.com/Jaydeep2009/GateKeeper)** — API Gateway Proxy Platform
+`Java` `Spring Boot` `JWT` `REST APIs`
+
+Multi-user API gateway routing 3rd-party calls through dynamic proxy URLs — 10+ concurrent services/user, secured with 4-layer auth, sustaining 100+ req/min with sub-200ms overhead.
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ [UniVault](https://github.com/Jaydeep2009/UniVault)** — Distributed Cloud Storage Aggregator
+`Java 17` `Spring Boot` `PostgreSQL` `JWT`
+
+Provider-agnostic storage aggregator pooling Google Drive, OneDrive, Cloudflare R2 & Backblaze B2. Chunked-upload pipeline (4MB chunks, MD5 verification, retry w/ exponential backoff) + smart storage router.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 [Aimwise](https://github.com/Jaydeep2009/Aimwise)** — AI-Powered Goal Planning App
+`Kotlin` `Jetpack Compose` `Node.js` `Firebase`
+
+Android app generating personalized day-wise task roadmaps via LLM integration, with a secured Node.js proxy and Firebase-backed real-time tracking + auto-adjusting missed-day recovery.
+
+</td>
+<td width="50%" valign="top">
+
+**🏅 Achievements & Certifications**
+
+- 560+ DSA problems solved (LeetCode, GfG, CodeChef)
+- Backend Development — PW Skills
+- Java/SQL — HackerRank
+- Apache Kafka Fundamentals — Confluent
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaydeep2009&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep2009&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jaydeep2009&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaydeep2009&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaydeep2009&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Jaydeep2009&icon=0&color=0" /></a>
+</p>
+
+<p align="center"><i>Proudly crafted with ❤️ — always open to backend & distributed-systems collabs</i></p>
